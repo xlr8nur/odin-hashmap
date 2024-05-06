@@ -1,2 +1,3 @@
 # odin-hashmap
-simple hashMap project
+Creating a hashSet and hashMap implemented in JavaScript
+regarding to a coursework, The Odin Project.
